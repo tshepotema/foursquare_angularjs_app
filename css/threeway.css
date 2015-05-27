@@ -1,0 +1,76 @@
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #e0e0e0;
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 60px;
+    overflow: hidden;
+}
+
+.caption-fullview {
+    max-height: 400px;
+    padding: 0 7px;    
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail {
+    min-height: 235px;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.pull-right.price {
+    line-height: 54px;   
+}
+
+.pullrightcategory {
+    margin-top: -10px;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.ratings .pull-right {
+    height: 30px;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+nav.navbar-inverse {
+    background-color: #444 !important;
+    border-color: #444 !important;
+}

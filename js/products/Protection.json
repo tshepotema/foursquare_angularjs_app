@@ -1,0 +1,22 @@
+[
+	{"id": 1, "name":"Maverick 750", "price":3595.00, "category":"Bats", "snippet":"", "manufacture": "Gray-Nicolls", "stock": true},
+	{"id": 2, "name":"Purist Original", "price":6895.00, "category":"Bats", "snippet":"", "manufacture": "GM", "stock": false},
+	{"id": 3, "name":"Kahuna 850", "price":5195.00, "category":"Bats", "snippet":"", "manufacture": "Kookaburra", "stock": false},
+	{"id": 4, "name":"Gladiator", "price":6999.95, "category":"Bats", "snippet":"", "manufacture": "SS", "stock": true},
+	{"id": 5, "name":"Menace 900", "price":3495.00, "category":"Bats", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 6, "name":"Stealth", "price":3295.00, "category":"Bats", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 7, "name":"Evopower 3000", "price":2595.00, "category":"Bats", "snippet":"", "manufacture": "Puma", "stock": false},
+	{"id": 8, "name":"Hybrid I", "price":5995.00, "category":"Bats", "snippet":"", "manufacture": "D&P", "stock": true},
+	{"id": 9, "name":"Vector Players", "price":5495.00, "category":"Bats", "snippet":"", "manufacture": "D&P", "stock": true},
+	{"id": 10, "name":"V600 G3", "price":3650.00, "category":"Bats", "snippet":"", "manufacture": "Slazenger", "stock": true},
+	{"id": 11, "name":"Achieve", "price":3495.00, "category":"Bats", "snippet":"", "manufacture": "New Balance", "stock": true},
+	{"id": 12, "name":"MC Limited Edition", "price":3795.00, "category":"Bats", "snippet":"", "manufacture": "Spartan", "stock": true},
+	{"id": 13, "name":"MC 1000", "price":1895.00, "category":"Bats", "snippet":"", "manufacture": "Spartan", "stock": true},
+	{"id": 14, "name":"Fireblade", "price":1195.00, "category":"Bats", "snippet":"", "manufacture": "B&S", "stock": true},
+	{"id": 15, "name":"Envy JNR", "price":1195.00, "category":"Bats", "snippet":"", "manufacture": "County", "stock": true},
+	{"id": 16, "name":"8000 Gold", "price":1795.00, "category":"Bats", "snippet":"", "manufacture": "CA", "stock": true},
+	{"id": 17, "name":"5000 Gold", "price":1450.00, "category":"Bats", "snippet":"", "manufacture": "B&S", "stock": true},
+	{"id": 18, "name":"T20", "price":1995.00, "category":"Bats", "snippet":"", "manufacture": "AS", "stock": true},
+	{"id": 19, "name":"Fireblade", "price":1195.00, "category":"Bats", "snippet":"", "manufacture": "B&S", "stock": true},
+	{"id": 20, "name":"Launch", "price":1425.00, "category":"Bats", "snippet":"", "manufacture": "New Balance", "stock": true}
+]

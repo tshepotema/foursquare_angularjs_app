@@ -1,0 +1,22 @@
+[
+	{"id": 1, "name":"F18 Bag", "price":1495.00, "category":"Luggage", "snippet":"", "manufacture": "Gray-Nicolls", "stock": true},
+	{"id": 2, "name":"Powerbow Enforcer JNR Bag", "price":595.00, "category":"Luggage", "snippet":"", "manufacture": "GM", "stock": false},
+	{"id": 3, "name":"Duplex Wheel Bag", "price":2695.00, "category":"Luggage", "snippet":"", "manufacture": "GM", "stock": false},
+	{"id": 4, "name":"Easi-Load Wheel Bag", "price":1695.95, "category":"Luggage", "snippet":"", "manufacture": "GM", "stock": true},
+	{"id": 5, "name":"5 Star Original Wheel Bag", "price":1295.00, "category":"Luggage", "snippet":"", "manufacture": "GM", "stock": true},
+	{"id": 6, "name":"Pro 1500 Wheel Bag", "price":1895.00, "category":"Luggage", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 7, "name":"Pro 950 Wheel Bag", "price":1495.00, "category":"Luggage", "snippet":"", "manufacture": "Kookaburra", "stock": false},
+	{"id": 8, "name":"Pro 900 Wheel Bag", "price":1295.00, "category":"Luggage", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 9, "name":"Pro 800 Wheel Bag", "price":895.00, "category":"Luggage", "snippet":"", "manufacture": "D&P", "stock": true},
+	{"id": 10, "name":"Pro 600 Wheel Bag", "price":795.00, "category":"Luggage", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 11, "name":"Puma XL Bag", "price":1595.00, "category":"Luggage", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 12, "name":"Gladiator Bag", "price":2295.00, "category":"Luggage", "snippet":"", "manufacture": "SS", "stock": true},
+	{"id": 13, "name":"D&P Coffin", "price":2195.00, "category":"Luggage", "snippet":"", "manufacture": "D&P", "stock": true},
+	{"id": 14, "name":"Vector 900 Wheel Bag", "price":1095.00, "category":"Luggage", "snippet":"", "manufacture": "D&P", "stock": true},
+	{"id": 15, "name":"Vector 500 Wheel Bag", "price":675.00, "category":"Luggage", "snippet":"", "manufacture": "D&P", "stock": true},
+	{"id": 16, "name":"Slazenger V55", "price":335.00, "category":"Luggage", "snippet":"", "manufacture": "Slazenger", "stock": true},
+	{"id": 17, "name":"SNR Wheel Bag", "price":925.00, "category":"Luggage", "snippet":"", "manufacture": "B&S", "stock": true},
+	{"id": 18, "name":"B&S Wheel Bag", "price":750.00, "category":"Luggage", "snippet":"", "manufacture": "B&S", "stock": true},
+	{"id": 19, "name":"BAS Vampire", "price":1695.00, "category":"Luggage", "snippet":"", "manufacture": "BAS", "stock": true},
+	{"id": 20, "name":"County Clipper", "price":1450.00, "category":"Luggage", "snippet":"", "manufacture": "County", "stock": true}
+]

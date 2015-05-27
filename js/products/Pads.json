@@ -1,0 +1,22 @@
+[
+	{"id": 1, "name":"Powerbow Players", "price":1550.00, "category":"Pads", "snippet":"", "manufacture": "Gray-Nicolls", "stock": true},
+	{"id": 2, "name":"Maverick Elite", "price":1495.00, "category":"Pads", "snippet":"", "manufacture": "Gray-Nicolls", "stock": false},
+	{"id": 3, "name":"Oblivion E41 Limited Edition", "price":1495.00, "category":"Pads", "snippet":"", "manufacture": "Gray-Nicolls", "stock": false},
+	{"id": 4, "name":"E41 1000 Limited Edition", "price":1295.95, "category":"Pads", "snippet":"", "manufacture": "Gray-Nicolls", "stock": true},
+	{"id": 5, "name":"D30 909", "price":1150.00, "category":"Pads", "snippet":"", "manufacture": "GM", "stock": true},
+	{"id": 6, "name":"D30 505", "price":695.00, "category":"Pads", "snippet":"", "manufacture": "GM", "stock": true},
+	{"id": 7, "name":"Kahuna Players", "price":1495.00, "category":"Pads", "snippet":"", "manufacture": "Kookaburra", "stock": false},
+	{"id": 8, "name":"Menace 1500", "price":1325.00, "category":"Pads", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 9, "name":"Kahuna 1000", "price":995.00, "category":"Pads", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 10, "name":"Ricochet 850", "price":595.00, "category":"Pads", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 11, "name":"Evospeed 6000", "price":1695.00, "category":"Pads", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 12, "name":"Platinum 5000", "price":1495.00, "category":"Pads", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 13, "name":"Evospeed 4000", "price":1175.00, "category":"Pads", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 14, "name":"Evospeed 3000", "price":675.00, "category":"Pads", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 15, "name":"SS Aerolite", "price":1095.00, "category":"Pads", "snippet":"", "manufacture": "SS", "stock": true},
+	{"id": 16, "name":"SS Dragon", "price":895.00, "category":"Pads", "snippet":"", "manufacture": "SS", "stock": true},
+	{"id": 17, "name":"Vector Limited Edition", "price":1295.00, "category":"Pads", "snippet":"", "manufacture": "D&P", "stock": true},
+	{"id": 18, "name":"Blade UPP", "price":1195.00, "category":"Pads", "snippet":"", "manufacture": "D&P", "stock": true},
+	{"id": 19, "name":"SL22 Pro JNR", "price":825.00, "category":"Pads", "snippet":"", "manufacture": "Adidas", "stock": true},
+	{"id": 20, "name":"Bow 20 - 20", "price":995.00, "category":"Pads", "snippet":"", "manufacture": "BAS", "stock": true}
+]

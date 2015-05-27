@@ -1,0 +1,22 @@
+[
+	{"id": 1, "name":"Pro 900 Thigh Pad", "price":210.00, "category":"Accesories", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 2, "name":"Pro 900 Inner Thigh Pad", "price":150.00, "category":"Accesories", "snippet":"", "manufacture": "Kookaburra", "stock": false},
+	{"id": 3, "name":"Pulse 5000 Thigh Pad", "price":295.00, "category":"Accesories", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 4, "name":"Platinum Thigh Pad", "price":185.00, "category":"Accesories", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 5, "name":"Millenium Pro Thigh Pad", "price":195.00, "category":"Accesories", "snippet":"", "manufacture": "SS", "stock": true},
+	{"id": 6, "name":"Stealth", "price":3295.00, "category":"Accesories", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 7, "name":"High Tech Thigh Pad", "price":120.00, "category":"Accesories", "snippet":"", "manufacture": "SS", "stock": false},
+	{"id": 8, "name":"D&P Thigh Pads", "price":295.00, "category":"Accesories", "snippet":"", "manufacture": "D&P", "stock": true},
+	{"id": 9, "name":"Adidas Thigh Pad", "price":255.00, "category":"Accesories", "snippet":"", "manufacture": "Adidas", "stock": true},
+	{"id": 10, "name":"Adidas Inner Thigh Pad", "price":125.00, "category":"Accesories", "snippet":"", "manufacture": "Adidas", "stock": true},
+	{"id": 11, "name":"SS Pro Chest Protector", "price":180.00, "category":"Accesories", "snippet":"", "manufacture": "SS", "stock": true},
+	{"id": 12, "name":"Players Thigh Pad Set", "price":475.00, "category":"Accesories", "snippet":"", "manufacture": "Gray-Nicolls", "stock": true},
+	{"id": 13, "name":"Pro Players Thigh Pad Set", "price":695.00, "category":"Accesories", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 14, "name":"Pro 500 Thigh Pad Set", "price":395.00, "category":"Accesories", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 15, "name":"Stripper Pants", "price":825.00, "category":"Accesories", "snippet":"", "manufacture": "Aero", "stock": true},
+	{"id": 16, "name":"Fielding Gloves", "price":225.00, "category":"Accesories", "snippet":"", "manufacture": "Aero", "stock": true},
+	{"id": 17, "name":"Puma Abdo Guard", "price":45.00, "category":"Accesories", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 18, "name":"Adidas Abdo Guard", "price":45.00, "category":"Accesories", "snippet":"", "manufacture": "Adidas", "stock": true},
+	{"id": 19, "name":"Purist Grip", "price":50.00, "category":"Accesories", "snippet":"", "manufacture": "GM", "stock": true},
+	{"id": 20, "name":"Puma Pulse Grip", "price":65.00, "category":"Accesories", "snippet":"", "manufacture": "Puma", "stock": true}
+]

@@ -1,0 +1,22 @@
+[
+	{"id": 1, "name":"Oblivion E41", "price":975.00, "category":"Gloves", "snippet":"", "manufacture": "Gray-Nicolls", "stock": true},
+	{"id": 2, "name":"Powerbow 750", "price":825.00, "category":"Gloves", "snippet":"", "manufacture": "GM", "stock": false},
+	{"id": 3, "name":"GM Limited Edition", "price":1295.00, "category":"Gloves", "snippet":"", "manufacture": "GM", "stock": false},
+	{"id": 4, "name":"GM Original", "price":1095.00, "category":"Gloves", "snippet":"", "manufacture": "GM", "stock": true},
+	{"id": 5, "name":"GM 909 D30", "price":750.00, "category":"Gloves", "snippet":"", "manufacture": "GM", "stock": true},
+	{"id": 6, "name":"Kahuna Players", "price":1295.00, "category":"Gloves", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 7, "name":"Menace 1500", "price":1195.00, "category":"Gloves", "snippet":"", "manufacture": "Kookaburra", "stock": false},
+	{"id": 8, "name":"Rocochet 950", "price":825.00, "category":"Gloves", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 9, "name":"Bubble 900", "price":725.00, "category":"Gloves", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 10, "name":"Menace 900", "price":725.00, "category":"Gloves", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 11, "name":"Ricochet 600", "price":360.00, "category":"Gloves", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 12, "name":"Pro 300", "price":165.00, "category":"Gloves", "snippet":"", "manufacture": "Kookaburra", "stock": true},
+	{"id": 13, "name":"Evopower Black Edition", "price":1195.00, "category":"Gloves", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 14, "name":"Evospeed 4000", "price":895.00, "category":"Gloves", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 15, "name":"Evospeed 3500", "price":625.00, "category":"Gloves", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 16, "name":"Platinum 3000", "price":395.00, "category":"Gloves", "snippet":"", "manufacture": "Puma", "stock": true},
+	{"id": 17, "name":"SS Gladiator", "price":795.00, "category":"Gloves", "snippet":"", "manufacture": "SS", "stock": true},
+	{"id": 18, "name":"SS Aerolite", "price":775.00, "category":"Gloves", "snippet":"", "manufacture": "AS", "stock": true},
+	{"id": 19, "name":"Vector Limited Edition", "price":895.00, "category":"Gloves", "snippet":"", "manufacture": "D&P", "stock": true},
+	{"id": 20, "name":"Slazenger Ultimate", "price":1150.00, "category":"Gloves", "snippet":"", "manufacture": "Slazenger", "stock": true}
+]

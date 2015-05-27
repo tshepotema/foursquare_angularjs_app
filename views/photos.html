@@ -1,0 +1,35 @@
+<div class="row">
+    <h2>Photos taken at: {{venueName}}</h2>
+    <div class="col-sm-4 col-lg-4 col-md-4">
+    </div>
+    <div class="col-sm-4 col-lg-4 col-md-4">
+        Sort By: 
+        <select class="form-control" style="width: 79%; display: inline-block;" ng-model="selectedFilter" ng-change="changeOrdering()" 
+            ng-options="opt as opt.label for opt in priceFilters">
+        </select>
+    </div>
+    <div class="col-sm-4 col-lg-4 col-md-4">
+        P/Page: 
+        <select class="form-control" style="width: 79%; display: inline-block;" ng-model="selectedPPage" ng-change="changePageLimit()" 
+            ng-options="opt as opt.label for opt in pageLimitOptions">
+        </select>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-4 col-lg-4 col-md-4" ng-repeat="photo in photos | orderBy: orderField: reverseValue | limitTo:itemsPerPage:pagerStartDisplay">
+        <div class="thumbnail">
+            <img ng-src="{{photo.prefix + '300x300' + photo.suffix}}" alt="">
+            <div class="caption">
+                <h4><a href="#/photo/{{photo.user.firstName}} {{photo.user.lastName}}/{{photo.source.name}}/{{photo.prefix.replace('//','~~') + '500x500' + photo.suffix}}">{{photo.user.firstName}} {{photo.user.lastName}}</a>
+                </h4>
+                <p>&nbsp;</p>
+            </div>
+            <div class="ratings">
+                <p>{{photo.source.name}}</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<pagination total-items="totalItems" ng-model="currentPage" max-size="maxSize" class="pagination-sm" boundary-links="true" rotate="false" ng-change="pageChanged()"></pagination>
